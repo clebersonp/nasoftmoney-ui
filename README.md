@@ -1,5 +1,5 @@
 # nasoftmoney-ui
-Projeto CRUD de Pessoas e Lançamentos de Despesas - UI (User Interface) com Angular 4 CLI, PrimeNG, Bootstrap, bibliotecas angular2-jwt, moment, ng2-currency-mask, ng2-toasty com regras de autenticação e autorização através de Api Restful com Spring Boot utilizando Oauth2, JWT token.
+Projeto CRUD de Pessoas e Lançamentos de Despesas - UI (User Interface) com Api Restful com Spring Boot, Angular 4 CLI, PrimeNG, Bootstrap, bibliotecas angular2-jwt, moment, ng2-currency-mask, ng2-toasty com regras de autenticação e autorização através de Spring Security, Oauth2, JWT token.
 
 **Login**
 ![image](https://user-images.githubusercontent.com/23662442/34919028-7e17ac5a-f944-11e7-8700-7b1209ac89cc.png)
