@@ -47,7 +47,8 @@ export class LancamentosPesquisaComponent implements OnInit {
 
  confirmarExclusao(lancamento: any) {
     this.confirmation.confirm({
-      message: 'Tem certeza que deseja excluir?',
+      message: `Tem certeza que deseja excluir o lançamento? <p> <b>'${lancamento.descricao}'</b>`,
+               
       accept: () => {
         this.excluir(lancamento);
       }
